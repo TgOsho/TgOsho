@@ -13,15 +13,18 @@
 
 ---
 
-### 🎧 Now Playing
+---
 
+### 🎧 Now Playing
 <p align="center">
   <img 
-    src="https://spotify-now-playing-tau.vercel.app/api/spotify"
-    alt="Spotify Now Playing"
+    src="https://raw.githubusercontent.com/TgOsho/spotify-visualizer-assets/main/tg-osho-now-playing-card.png" 
+    alt="TG OSHO Spotify Player" 
     width="500"
+    style="border-radius:12px; box-shadow:0 0 10px rgba(138,43,226,0.5);" 
   />
 </p>
+
 
 
 ### 👨‍💻 About Me
@@ -55,17 +58,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TgOsho&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
-
----
-
-### 🎧 Now Playing on Spotify
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31zqbpx3wpf4cnouef7ztqhw2lfi&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zqbpx3wpf4cnouef7ztqhw2lfi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
-</p>
-
-> 📝 *Replace `your_spotify_user_id` above with your Spotify username to activate this.*
 
 ---
 
