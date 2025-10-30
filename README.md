@@ -69,5 +69,6 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=100&section=footer&text=⭐️%20From%20TG%20OSHO%20⭐️&fontColor=ffffff&fontSize=20"/>
+  <img src="https://img.shields.io/badge/⚡_TG_OSHO_⚡-Automation_Master-6a11cb?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white"/>
 </p>
+
