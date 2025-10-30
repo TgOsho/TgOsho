@@ -11,6 +11,19 @@
 
 ---
 
+---
+
+### 🎧 Now Playing
+
+<p align="center">
+  <img 
+    src="https://spotify-now-playing-tau.vercel.app/api/spotify"
+    alt="Spotify Now Playing"
+    width="500"
+  />
+</p>
+
+
 ### 👨‍💻 About Me
 - 🔭 Working on **Bots, Scrapers, APIs & Automation Projects**  
 - 🌱 Exploring **AI, Machine Learning, and FastAPI**  
