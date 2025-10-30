@@ -11,10 +11,6 @@
 
 ---
 
----
-
----
-
 ### 🎧 Now Playing
 <p align="center">
   <img 
@@ -25,7 +21,7 @@
   />
 </p>
 
-
+---
 
 ### 👨‍💻 About Me
 - 🔭 Working on **Bots, Scrapers, APIs & Automation Projects**  
