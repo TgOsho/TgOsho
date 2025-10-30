@@ -11,18 +11,6 @@
 
 ---
 
-### 🎧 Now Playing
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/TgOsho/main/Spotify.png" 
-    alt="TG OSHO Spotify Player" 
-    width="500"
-    style="border-radius:12px; box-shadow:0 0 10px rgba(138,43,226,0.5);" 
-  />
-</p>
-
----
-
 ### 👨‍💻 About Me
 - 🔭 Working on **Bots, Scrapers, APIs & Automation Projects**  
 - 🌱 Exploring **AI, Machine Learning, and FastAPI**  
