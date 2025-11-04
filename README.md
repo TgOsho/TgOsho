@@ -67,6 +67,19 @@
 
 ---
 
+### 🎧 Cyber Beats — Hacking Playlist
+<p align="center">
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6lx92CnvcXMoibvmLsJcNy?utm_source=generator" width="70%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture"></iframe>
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/playlist/6lx92CnvcXMoibvmLsJcNy" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY%20ON%20SPOTIFY-39FF14?style=for-the-badge&logo=spotify&logoColor=black" alt="Play on Spotify"/>
+  </a>
+</p>
+
+---
+
 ### 🌐 Connect to Network
 <p align="center">
   <a href="https://t.me/TgOsho" target="_blank">
