@@ -70,7 +70,7 @@
 ### 🎧 Spotify Mobile Player — Cyber Beats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TgOsho/TgOsho/main/spotify_mobile_small_200.gif" 
+  <img src="https://raw.githubusercontent.com/TgOsho/TgOsho/main/spotify_mini_player.gif" 
        width="350" 
        alt="Spotify Mobile Player Animation">
 </p>
